@@ -11,16 +11,16 @@ const Contact = () => {
 
       <div className="grid grid-cols-1 justify-items-center mt-10 mx-96">
         <div className="my-5 flex justify-center min-w-full p-5 rounded-lg bg-gradient-to-r from-[#FC59FE] to-[#fb4176]">
-          <AiOutlineInstagram /> <p className="px-5"> Instagram </p>
+          <AiOutlineInstagram /> <p className="px-5"> <a href="https://www.instagram.com/nikhil_vashisht/" /> Instagram </p>
         </div>
         <div className="my-5 flex justify-center min-w-full p-5 rounded-lg bg-gradient-to-r from-[#FC59FE] to-[#fb4176]">
-          <AiOutlineGithub /> <p className="px-5"> Github </p>
+          <AiOutlineGithub /> <p className="px-5"> <a href="https://github.com/nikhilvashisht" /> Github </p>
         </div>
         <div className="my-5 flex justify-center min-w-full p-5 rounded-lg bg-gradient-to-r from-[#FC59FE] to-[#fb4176]">
-          <AiOutlineLinkedin /> <p className="px-5">LinkedIn </p>
+          <AiOutlineLinkedin /> <p className="px-5"> <a href="https://www.linkedin.com/in/nikhil-vashisht-9620881b9/" /> LinkedIn </p>
         </div>
         <div className="my-5 flex justify-center min-w-full p-5 rounded-lg bg-gradient-to-r from-[#FC59FE] to-[#fb4176]">
-          <AiOutlineTwitter /> <p className="px-5"> Twitter </p>
+          <AiOutlineTwitter /> <p className="px-5"> <a href="https://twitter.com/nikhilv36655502" /> Twitter </p>
         </div>
       </div>
     </div>
